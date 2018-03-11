@@ -1,0 +1,100 @@
+﻿@model IEnumerable<LMSApp.ViewModel.EmployeeLeaveReport>
+
+@{
+    ViewBag.Title = "Report";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Report</h1>
+<form method="POST" id="myForm">
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" }) 
+        
+        <div class="form-group">
+            @Html.Label("Employee Id", new { @class = "col-md-2 control-label" })
+            <div class="col-md-10">
+                <select name="EmployeeId" id="EmployeeId" class="form-control">
+                    <option value="">--Select--</option>
+                    @foreach (var department in ViewBag.departments)
+                    {
+                        <option value="@department.Id">@department.Id</option>
+                    }
+                </select>
+            </div>
+        </div>
+            <div class="form-group">
+                @Html.Label("Name", htmlAttributes: new { @class = "control-label col-md-2" })
+                <div class="col-md-10">
+                    <input type="text" id="Name" name="Name" class="form-control" />
+                </div>
+            </div>
+            
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" id="submit" name="submit" value="Make PDF" class="btn btn-default" />
+                </div>
+            </div>
+       
+    </div>
+
+        <hr />
+        <table class="table table-striped table-bordered" id="StudentTable">
+            <thead>
+                <tr>
+                    <th>Employee Id</th>
+                    <th>Employee Name </th>
+                    <th>Leave Type </th>
+                    <th>Start Date </th>
+                    <th>End Date </th>
+                    <th>Total Days </th>
+                    <th>Entry Date </th>
+                </tr>
+            </thead>
+            <tbody id="StudentTableBody"></tbody>
+        </table>
+</form>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+        $(document).ready(function () {
+            $("#EmployeeId").on('change', function () {
+                var employeeId = $("#EmployeeId").val();
+                var json = { employeeId: employeeId, };
+                $.ajax({
+                    type: "POST",
+                    url: '@Url.Action("GetEmployeeName", "EmployeeLeave")',
+                    contentType: "application/json; charset=utf-8",
+                    data: JSON.stringify(json),
+                    success: function (data) {
+                        $.each(data, function (key, value) {
+                            $("#Name").val(value.Name);
+                        });
+                    }
+                });
+            });
+        });
+
+        $(document).ready(function () {
+            $("#EmployeeId").on('change', function () {
+                $("#StudentTableBody").empty();
+                var departmentId = $('#EmployeeId option:selected').val();
+                $.ajax({
+                    type: 'GET',
+                    data: { departmentId: departmentId },
+                    url: '@Url.Action("GetEmployeeLeaveInfo", "EmployeeLeave")',
+                    success: function (result) {
+                        $.each(result, function (key, value) {
+                            $("#StudentTableBody").append('<tr><td>' + value.EmployeeId + '</td><td>' + value.Name + '</td><td>' + value.LeaveTypeName + '</td><td>' + value.StartDate + '</td><td>' + value.EndDate + '</td><td>' + value.TotalDays + '</td><td>' + value.EntryDate + '</td></tr>');
+                        });
+                    }
+
+                });
+            });
+        });
+    </script>
+}

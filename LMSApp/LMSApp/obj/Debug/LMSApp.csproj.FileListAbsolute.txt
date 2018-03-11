@@ -1,0 +1,291 @@
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\LMSApp.dll.config
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\LMSApp.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\LMSApp.pdb
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Antlr3.Runtime.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\itextsharp.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Newtonsoft.Json.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Owin.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Helpers.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Mvc.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Optimization.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Razor.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.WebPages.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\WebGrease.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\itextsharp.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Helpers.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Mvc.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Optimization.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.Razor.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.WebPages.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Newtonsoft.Json.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\obj\Debug\LMSApp.Migrations.Identity.resources
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\obj\Debug\LMSApp.csproj.GenerateResource.Cache
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\obj\Debug\LMSApp.dll
+C:\Users\Nora_Alam\Desktop\PBL\DatabaseFirst\LeaveManagementWithIdentity\LMSApp\LMSApp\obj\Debug\LMSApp.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\LMSApp.dll.config
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\LMSApp.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\LMSApp.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Antlr3.Runtime.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\itextsharp.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Newtonsoft.Json.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Owin.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Helpers.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Mvc.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Optimization.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Razor.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.WebPages.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\WebGrease.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\itextsharp.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Helpers.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Mvc.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Optimization.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.Razor.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.WebPages.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Newtonsoft.Json.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\obj\Debug\LMSApp.Migrations.Identity.resources
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\obj\Debug\LMSApp.csproj.GenerateResource.Cache
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\obj\Debug\LMSApp.dll
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\obj\Debug\LMSApp.pdb
+C:\Users\Nora_Alam\Desktop\WorkArea\LMSApp\LMSApp\obj\Debug\LMSApp.csprojResolveAssemblyReference.cache
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\LMSApp.dll.config
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\LMSApp.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\LMSApp.pdb
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Antlr3.Runtime.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\itextsharp.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Newtonsoft.Json.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Owin.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Helpers.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Mvc.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Optimization.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.WebPages.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\WebGrease.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\itextsharp.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Helpers.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Mvc.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Optimization.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.WebPages.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Newtonsoft.Json.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\obj\Debug\LMSApp.Migrations.Identity.resources
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\obj\Debug\LMSApp.csproj.GenerateResource.Cache
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\obj\Debug\LMSApp.dll
+C:\Users\Anwar01\Desktop\Practics\LMSApp\LMSApp\obj\Debug\LMSApp.pdb
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\LMSApp.dll.config
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\LMSApp.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\LMSApp.pdb
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Antlr3.Runtime.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\itextsharp.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Newtonsoft.Json.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Owin.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Helpers.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Mvc.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Optimization.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.WebPages.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\WebGrease.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\itextsharp.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Helpers.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Mvc.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Optimization.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.WebPages.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Newtonsoft.Json.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\obj\Debug\LMSApp.Migrations.Identity.resources
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\obj\Debug\LMSApp.csproj.GenerateResource.Cache
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\obj\Debug\LMSApp.dll
+C:\Users\Anwar01\Desktop\Practics\Leave Management App\LMSApp\LMSApp\obj\Debug\LMSApp.pdb
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\LMSApp.dll.config
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\LMSApp.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\LMSApp.pdb
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Antlr3.Runtime.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\itextsharp.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Newtonsoft.Json.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Owin.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Helpers.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Mvc.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Optimization.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Razor.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.WebPages.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\WebGrease.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\itextsharp.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Helpers.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Mvc.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Optimization.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.Razor.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.WebPages.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Antlr3.Runtime.pdb
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Newtonsoft.Json.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\obj\Debug\LMSApp.Migrations.Identity.resources
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\obj\Debug\LMSApp.csproj.GenerateResource.Cache
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\obj\Debug\LMSApp.dll
+C:\Users\Nora_Alam\Desktop\Github\Leave Management\LMSApp\LMSApp\obj\Debug\LMSApp.pdb

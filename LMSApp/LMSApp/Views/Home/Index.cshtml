@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+<p><h2 style="text-align: center"> Employee Leave Management System</h2> </p>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <h3 style="text-align: center"><a href="">@Html.ActionLink("Employee Entry", "AddEmployee", "EmployeeEntry") </a></h3>
+        <h3 style="text-align: center"><a href="">@Html.ActionLink("Allocated Leave", "AllocatedLeave", "AllocatedLeave") </a></h3>
+    </div>
+    <div class="col-md-6">
+        <h3 style="text-align: center"><a href="">@Html.ActionLink("Leave Taken", "LeaveTaken", "EmployeeLeave") </a></h3>
+        <h3 style="text-align: center"><a href="">@Html.ActionLink("Report", "Report", "EmployeeLeave") </a></h3>
+    </div>
+
+</div>

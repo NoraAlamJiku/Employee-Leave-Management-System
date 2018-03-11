@@ -1,0 +1,84 @@
+﻿@model LMSApp.Models.AllocatedLeave
+
+@{
+    ViewBag.Title = "Allocated Leave";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string msg = ViewBag.Msg;
+}
+
+<h2>Allocated Leave</h2>
+<h4 style="text-align: center"> @msg </h4>
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { name = "leaveTakenValidasion", id = "leaveTakenValidasion" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Employee Name", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select name="EmployeeId" id="EmployeeId" class="form-control">
+                    <option value="">--Select--</option>
+                    @foreach (var employee in ViewBag.Employees)
+                    {
+                        <option value="@employee.Id">@employee.Name</option>
+                    }
+                </select>
+                @Html.ValidationMessageFor(model => model.EmployeeId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Leave Type", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select name="LeaveTypeId" id="LeaveTypeId" class="form-control">
+                    <option value="">--Select--</option>
+                    @foreach (var leaveTypes in ViewBag.LeaveTypes)
+                    {
+                        <option value="@leaveTypes.Id">@leaveTypes.TypeName</option>
+                    }
+                </select>
+                @Html.ValidationMessageFor(model => model.LeaveTypeId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Total days", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.NoOfAllocatedLeave, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.NoOfAllocatedLeave, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+
+    <script>
+
+        $("#leaveTakenValidasion").validate({
+            rules: {
+
+                EmployeeId: "required",
+                LeaveTypeId: "required",
+                NoOfAllocatedLeave: "required",
+
+            },
+            messages: {
+
+                EmployeeId: "Please Select Employee Id!",
+                LeaveTypeId: "Please Select Leave Type!",
+                NoOfAllocatedLeave: "Please enter number of total leave!"
+            }
+        });
+    </script>
+}

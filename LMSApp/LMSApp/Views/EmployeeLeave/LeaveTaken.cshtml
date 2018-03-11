@@ -1,0 +1,238 @@
+﻿@model LMSApp.Models.LeaveTaken
+
+@{
+    ViewBag.Title = "Leave Taken";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    string msg = ViewBag.Msg;
+}
+
+<h2>Leave Taken</h2>
+<h4 style="text-align: center"> @msg </h4>
+
+@using (Html.BeginForm(null, null, FormMethod.Post, new { id = "leaveTakenValidasion" }))
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.Label("Employee Id", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select name="EmployeeId" id="EmployeeId" class="form-control">
+                    <option value="">--Select--</option>
+                    @foreach (var employee in ViewBag.Employees)
+                    {
+                        <option value="@employee.Id">@employee.Id</option>
+                    }
+                </select>
+                @Html.ValidationMessageFor(model => model.EmployeeId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        
+        <div class="form-group">
+            @Html.Label("Name", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="text" id="showName" name="showName" readonly="readonly" class="form-control" />
+            </div>
+        </div>
+      
+        <div class="form-group">
+            @Html.Label("Remaining Leave", htmlAttributes: new { @class = "control-label col-md-4" })
+            <div class="col-md-4">
+            </div>
+        </div>
+       
+       
+        <div class="form-group">
+            @Html.Label("Sick Leave", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                <input type="text" id="SickLeaveLeft" name="SickLeaveLeft" readonly="readonly" class="col-md-3" />
+                @Html.Label("Out of", htmlAttributes: new { @class = "control-label col-md-3" })
+                <input type="number" id="totalSickLeave" name="totalSickLeave" readonly="readonly" class="col-md-3" />
+                @Html.ValidationMessageFor(model => model.EmployeeId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Casual Leave", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-4">
+                <input type="text" id="casualLeaveLeft" name="casualLeaveLeft" readonly="readonly" class="col-md-3" />
+                @Html.Label("Out of", htmlAttributes: new { @class = "control-label col-md-3" })
+                <input type="text" id="totalCasualLeave" name="totalCasualLeave" readonly="readonly" class="col-md-3" />
+                @Html.ValidationMessageFor(model => model.EmployeeId, "", new { @class = "text-danger" })
+            </div>
+        </div> 
+
+       
+        <div class="form-group">
+            @Html.Label("New Leave Entry", htmlAttributes: new { @class = "control-label col-md-4" })
+            <div class="col-md-4">
+            </div>
+        </div>
+        
+
+
+        <div class="form-group">
+            @Html.Label("Leave Type", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <select name="LeaveTypeId" id="LeaveTypeId" class="form-control">
+                    <option value="">--Select--</option>
+                    @foreach (var leaveTypes in ViewBag.LeaveTypes)
+                    {
+                        <option value="@leaveTypes.Id">@leaveTypes.TypeName</option>
+                    }
+                </select>
+                @Html.ValidationMessageFor(model => model.LeaveTypeId, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Start Date", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="date" id="StartDate" name="StartDate" class="form-control" />
+                @Html.ValidationMessageFor(model => model.StartDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("End Date", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="date" id="EndDate" name="EndDate" class="form-control" />
+                @Html.ValidationMessageFor(model => model.EndDate, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.Label("Total Days", htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <input type="number" id="NoOfLeaveTaken" name="NoOfLeaveTaken" readonly="readonly" class="form-control" />
+                @Html.ValidationMessageFor(model => model.NoOfLeaveTaken, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+<script> 
+    $(function () {
+        $("#EmployeeId").on("change", function () {
+            $("#totalCasualLeave").val("");
+            $("#totalSickLeave").val("");
+            $("#showName").val("");
+            $("#SickLeaveLeft").val("");
+            $("#casualLeaveLeft").val("");
+
+            var employeeId = $("#EmployeeId").val();
+            var json = { employeeId: employeeId, };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetEmployeeName", "EmployeeLeave")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $.each(data, function (key, value) {
+                        $("#showName").val(value.Name);
+                    });
+                }
+            });
+
+            var employeeId = $("#EmployeeId").val();
+            var json = { employeeId: employeeId, };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetTotalLeaveInfo", "EmployeeLeave")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $.each(data, function (key, value) {                      
+                        $("#totalSickLeave").val(value.NoOfAllocatedLeave);
+                    });
+                }
+            });
+            var employeeId = $("#EmployeeId").val();
+            var json = { employeeId: employeeId, };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetTotalCasualLeave", "EmployeeLeave")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $.each(data, function (key, value) {
+                        $("#totalCasualLeave").val(value.NoOfAllocatedLeave);
+                    });
+                }
+            });
+
+            var employeeId = $("#EmployeeId").val();
+            var json = { employeeId: employeeId, };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetRemaingSickLeave", "EmployeeLeave")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    $("#SickLeaveLeft").val(data);
+                }
+            });
+            var employeeId = $("#EmployeeId").val();
+            var json = { employeeId: employeeId, };
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("GetRemaingCasualLeave", "EmployeeLeave")',
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(json),
+                success: function (data) {
+                    var val1 = parseFloat($('#totalCasualLeave').val());
+                    $("#casualLeaveLeft").val(data);
+
+                }
+            });
+
+        });
+    });
+
+    $("#leaveTakenValidasion").validate({
+        rules: {
+
+            EmployeeId: "required",
+
+            LeaveTypeId: "required",
+            StartDate: "required",
+            EndDate: "required",
+            NoOfLeaveTaken: "required"
+        },
+        messages: {
+
+            EmployeeId: "Please Select The Employee Id!",
+
+            LeaveTypeId: "Please Select Leave Type!",
+            StartDate: "Please Select Startr Date!",
+            EndDate: "Please Select End Date!",
+            NoOfLeaveTaken: "Please Check Start And End Date Filed!"
+        }
+    });
+
+    $("#EndDate").on('change', function () {
+        $("#NoOfLeaveTaken").val("");
+        var startTime = new Date($("#StartDate").val());
+        var endtime = new Date($("#EndDate").val());
+        var duration = endtime - startTime;
+        var days = Math.floor(((duration % 31536000000) % 2628000000) / 86400000);
+        if (days > 0)
+            $("#NoOfLeaveTaken").val(days + 1);
+        else if (days == 0)
+            $("#NoOfLeaveTaken").val(1);
+        else
+            $("#NoOfLeaveTaken").val("");
+    });
+    
+</script>
+}
